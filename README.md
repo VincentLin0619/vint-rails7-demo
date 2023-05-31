@@ -1,25 +1,12 @@
-# README
+這是一個練習 Rails7 與 turbo 的專案:
+[TOC]
+# 環境：
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Ruby：3.2.2
+- Rails：7.0.4
+- DB：postgres
+- 前端打包：esbuild
 
-Things you may want to cover:
+## Gem
+- foreman:新增Procfile來使用`foreman start`運行檔案內設置的script.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# vint-rails7-demo
