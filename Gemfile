@@ -72,6 +72,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
   gem "webdrivers"
+  gem "database_cleaner-active_record"
+  gem "factory_bot_rails"
 end
 
 gem "foreman", "~> 0.87.2", :group => :development
