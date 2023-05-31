@@ -74,6 +74,7 @@ group :test do
   gem "webdrivers"
   gem "database_cleaner-active_record"
   gem "factory_bot_rails"
+  gem "rspec-rails"
 end
 
 gem "foreman", "~> 0.87.2", :group => :development
